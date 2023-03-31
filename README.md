@@ -1,2 +1,2 @@
 # sampleOpsRepo
-This is some test code!!!asdf
+This is some test code
